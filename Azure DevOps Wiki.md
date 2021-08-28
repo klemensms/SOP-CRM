@@ -46,7 +46,7 @@ add this to images within the brackets to limit the width: " =500x"
 <details>
  <summary>Screenshots: for Y</summary>
 
-add this to images within the brackets to limit the width: " =500x"
+add this to images within the brackets to limit the width: " =1000x"
 
 </details>
 
