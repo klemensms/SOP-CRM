@@ -25,18 +25,6 @@ stateDiagram %%comment
 
 ```
 
-``` mermaid
-stateDiagram %%comment
-
-  %% comment here
-  state fork_state <<fork>>
-      [*] --> fork_state
-      fork_state --> State2
-
-      state join_state <<join>>
-      State2 --> join_state
-
-```
 
 
 ``` mermaid
@@ -52,7 +40,7 @@ stateDiagram %%comment
   %% concurrency
   state Active {
       [*] --> A
-      A --> B : EvNumLockPressed
+      A --> B : Make payment .
 
   }
   state InActive {
@@ -64,4 +52,19 @@ stateDiagram %%comment
       CapsLockOff --> CapsLockOn : EvCapsLockPressed
       CapsLockOn --> CapsLockOff : EvCapsLockPressed
   }  
+```
+
+
+``` mermaid
+stateDiagram %%comment
+
+
+
+  %% concurrency
+  state Active {
+      [*] --> A
+      A --> B : Make payment .
+
+  }
+
 ```
