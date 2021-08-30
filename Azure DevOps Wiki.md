@@ -4,7 +4,7 @@
 
 <!-- comment for markdown only -->
 
-# Links - ⌛️
+# Links - ⌛️  {#custom-id}
 
 Main User Story: 
 - #
@@ -12,7 +12,7 @@ Main User Story:
 API Endpoint: 
 - #
 
-# Summary - ⌛️
+# Summary - ⌛️  {#custom-id}
 
 
 ::: mermaid
@@ -23,15 +23,15 @@ C --> D[Update 'TextD' ]
 :::
 
 
-# Important Details - ⌛️
+# Important Details - ⌛️ {#custom-id}
 
 ⚠️ - 
 ℹ️ - 
 
-# Troubleshooting - what to check first - ⌛️
+# Troubleshooting - what to check first - ⌛️ {#custom-id}
 
 
-# Configuration (incl. Reference Data) - ⌛️
+# Configuration (incl. Reference Data) - ⌛️ {#custom-id}
 
 
 
