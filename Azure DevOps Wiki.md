@@ -4,7 +4,7 @@
 
 <!-- comment for markdown only -->
 
-# Links - ⌛️  {#custom-id}
+# Links - ⌛️  {#links}
 
 Main User Story: 
 - #
@@ -12,7 +12,7 @@ Main User Story:
 API Endpoint: 
 - #
 
-# Summary - ⌛️  {#custom-id}
+# Summary - ⌛️  {#summary}
 
 
 ::: mermaid
@@ -23,15 +23,15 @@ C --> D[Update 'TextD' ]
 :::
 
 
-# Important Details - ⌛️ {#custom-id}
+# Important Details - ⌛️ {#important-details}
 
 ⚠️ - 
 ℹ️ - 
 
-# Troubleshooting - what to check first - ⌛️ {#custom-id}
+# Troubleshooting - what to check first - ⌛️ {#troubleshooting}
 
 
-# Configuration (incl. Reference Data) - ⌛️ {#custom-id}
+# Configuration (incl. Reference Data) - ⌛️ {#configuration}
 
 
 
@@ -51,4 +51,4 @@ add this to images within the brackets to limit the width: " =1000x"
 </details>
 
 
-
+# Another Heading - ⌛️ {#custom-id}
