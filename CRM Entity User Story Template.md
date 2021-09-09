@@ -12,7 +12,7 @@
 **Client Requirement**
 
 
-![google ](www.google.com)
+
 Consider: treat "existing/old" data/records differently?
 
 **Process diagrams** (optional)

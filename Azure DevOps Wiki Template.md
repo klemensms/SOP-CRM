@@ -36,12 +36,14 @@ C --> D[Update 'TextD' ]
 
 
 Include larger screenshots in toggle lists:
+
 <details>
  <summary>Screenshots: for X</summary>
 
 add this to images within the brackets to limit the width: " =500x"
 
 </details>
+<br>
 
 <details>
  <summary>Screenshots: for Y</summary>
@@ -49,6 +51,6 @@ add this to images within the brackets to limit the width: " =500x"
 add this to images within the brackets to limit the width: " =1000x"
 
 </details>
-
+<br>
 
 # Another Heading - ⌛️ {#custom-id}
